@@ -15,3 +15,13 @@ Automates scheduled tasks.
 
 Format:
 * * * * * command
+
+Example:
+0 */12 * * * backup-script.sh
+
+
+Automation is essential in:
+
+- DevOps pipelines  
+- backups  
+- monitoring
