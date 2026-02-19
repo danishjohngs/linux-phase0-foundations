@@ -10,3 +10,6 @@
 
 su - dev1
 echo "hello from dev1" >> /project/secret.txt
+```
+
+### Result: Successful write.
